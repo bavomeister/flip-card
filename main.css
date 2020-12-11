@@ -34,7 +34,7 @@ body {
 }
 
 .card-inner.is-flipped {
-  transform: rotateY(189deg);
+  transform: rotateY(180deg);
 }
 
 .card-face {
